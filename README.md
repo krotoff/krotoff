@@ -1,4 +1,11 @@
-### Hi there 👋
+![cover](https://github.com/krotoff/krotoff/assets/25304563/3b0783ec-c43d-4f62-9e39-14fa0322f6f8)
+
+# Hi there 👋 My name is Andrei Krotov. I am an iOS Developer since 2017.
+## I am living in Limassol, CY 🇨🇾 Right now I am working on the [Lola Speak](https://apps.apple.com/us/app/lola-speak-english-practice/id1604386676) app.
+
+
+
+
 
 <!--
 **krotoff/krotoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
